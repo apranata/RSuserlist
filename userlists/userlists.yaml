@@ -1,0 +1,9 @@
+name: userlists
+
+author: Ade Pranata
+
+version: 1.0
+
+desc: Manage userlist data.
+
+config_url: /plugins/userlists/pages/setup.php
